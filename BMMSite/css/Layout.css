@@ -1,0 +1,75 @@
+.header
+{
+	height: 150px;
+	margin-left: 0px;
+	padding-left: 0px;
+	background-color: antiquewhite;
+}
+.footer
+{
+	margin-left: 0px;
+	padding-left: 0px;
+	background-color: #88E598;
+}
+
+.Slide
+{
+    margin-left: 0px;
+    padding-left: 0px;
+    background-color: #A020FB;
+    margin-right: 778px;
+    margin-bottom: 101px;
+    margin-top: 0px;
+    max-width: 200px;
+    min-width: 60px;
+    height: 1200px;
+}
+
+.content
+{
+    margin-left: auto;
+	max-width: 800px;
+	min-width: 500px;
+    padding-left: 0px;
+    background-color: #09DFEB;
+    margin-top: -1300px;
+	height: 1200px;
+}
+.sizecheck{
+	padding-left: 60px;
+}
+
+.MainDiv{
+	margin: auto;
+	max-width: 1000px;
+	min-width: 800px;
+	background-color: #052A2C;
+}
+.details
+{
+    margin-left: 0px;
+    padding-left: 0px;
+    background-color: #09EB0C;
+    margin-top: 0px;
+    margin-bottom: 33px;
+}
+
+.imgcontrol
+{
+    margin-left: 20px;
+    padding-left: 0px;
+    margin-right: 250px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+/* this is for order pass */
+.nvorder{
+	background-color: azure;
+	
+}
+/* this is for order pass */
+
+
+
+
+

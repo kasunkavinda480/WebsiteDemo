@@ -1,0 +1,66 @@
+#tdsize1{
+	width: 50px;
+}
+
+/*a:hover {font-size:150%;}
+*/
+
+#MainTable
+{
+	
+	margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1300px;
+    min-width: 400px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	
+}
+input[type=text] {
+  width: 400px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+
+input[type=password] {
+  width: 400px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+input[type=text]:focus {
+  width: 450px;
+}
+
+#Nocolom{
+	width: 0;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+#itmeNameCol{
+	min-width: 300px;
+	margin: auto;
+}
+#statecol{
+	text-align: center;
+}
+#price{
+	text-align: center;
+}
+#imagecol{
+	width: 130px;
+}
+
